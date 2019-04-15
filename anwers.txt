@@ -1,0 +1,17 @@
+
+Exercise 6:
+a)first name and second name are private members of first derived class because we want to save this from base class.Base class will not use these members variable
+because they are hidden in base class.And the age is protected in derive class so the base class also get age protected from the derive class. 
+b)Cannot acces private member of base class
+c)Becauuse the private members of derived class are hidden in base class
+
+Exercise 8:
+
+'person::print' not accessible because 'student' uses 'protected' to inherit from 'person'
+	
+Exercise 9:
+
+"person::print"  is inaccessible	d:\18l2171\ConsoleApplication1\ConsoleApplication1\main.cpp	
+'person::print' not accessible because 'student' uses 'private' to inherit from 'person'	
+
+
